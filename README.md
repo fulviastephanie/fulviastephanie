@@ -22,7 +22,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
+<!--
 ### 🔭 Projetos em desenvolvimento
 - Portfólio pessoal
 - Conversor de moedas
@@ -30,7 +30,7 @@
 - Web scraping de notícias
 
 
-<!--
+
 **fulviastephanie/fulviastephanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
