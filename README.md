@@ -1,17 +1,17 @@
-## Olá, 👋
+### Olá, 👋
 
-# 👩💻 Meu nome é Fulvia!
+### 👩💻 Meu nome é Fulvia!
 
 🎓 Bacharel em Tecnologia da Informação (Univesp)  
 💻 Estudante de Engenharia da Computação (Univesp)  
 🌍 Apaixonada por tecnologia e soluções criativas
 
-## 📫 Contato
+### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/f%C3%BAlvia-stephanie-393273115?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fulviastephanie@gmail.com)
 
 ---
-## 🚀 Tecnologias que estudo
+### 🚀 Tecnologias que estudo
 
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
